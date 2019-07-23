@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project helped me understand 
+* the differences between class components & functional components
+* unidirectional data flow
+* where the state lives
+* asynchronous event handling
+* function scope binding & ES6 arrow functions
+* props & props.children
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
