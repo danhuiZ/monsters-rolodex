@@ -3,15 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project helped me understand 
 * the differences between class components & functional components
 * unidirectional data flow
-* where the state lives
+* the significance of where the state lives
 * asynchronous event handling
 * function scope binding & ES6 arrow functions
 * props & props.children
 
-
-
-
-
+-------------------------------------------------------------------
 
 ## Available Scripts
 
